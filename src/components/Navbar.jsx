@@ -81,7 +81,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>LAMA.</Logo>
+          <Logo>Ecommerce.</Logo>
         </Center>
         <Right>
           <MenuItem onClick={()=> navigate('/Register')}>REGISTER</MenuItem>
